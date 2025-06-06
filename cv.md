@@ -1,25 +1,25 @@
-#Viktoryia Tsialiatnikava
-###Junior Frontend Developer
-viktoryia.tsialiatnikava@gmail.com | +375292969255 | Minsk, Belarus
+# Viktoryia Tsialiatnikava  
+### Junior Frontend Developer  
+viktoryia.tsialiatnikava@gmail.com | +375292969255 | Minsk, Belarus  
 
-####Skills:
+#### Skills:
 Git - intermediate
 HTML/CSS – fluent
 JavaScript – basic
 VS Code - intemediate
 
-####Education:
+#### Education:
 Bachelor of Media & Communication 
 EHU
 Vilnius, Lithuania
 
-####Languages:
+#### Languages:
 Belarussian – fluent
 Russian – fluent
 English – intermediate
 Italian - basic
 
-####Experience:
+#### Experience:
 Self-Taught Frontend Developer
 Personal and Educational Projects
 2024 — Present
@@ -29,7 +29,7 @@ Personal and Educational Projects
     * Applied best practices in coding, version control (Git), and responsive design.
     * Continuously improving skills through online courses, documentation, and hands-on projects.
     
-####Code examples:
+#### Code examples:
 ```
 function fakeBin(x) {
   let result = '';
