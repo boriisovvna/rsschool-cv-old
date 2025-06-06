@@ -23,11 +23,11 @@ Italian - basic
 Self-Taught Frontend Developer  
 Personal and Educational Projects  
 2024 — Present  
-    *Designed and developed several responsive websites as part of personal learning journey.  
-    *Built projects using HTML, CSS, JavaScript, and React.  
-    *Implemented user-friendly interfaces with attention to design and usability.  
-    *Applied best practices in coding, version control (Git), and responsive design.  
-    *Continuously improving skills through online courses, documentation, and hands-on projects.  
+    + Designed and developed several responsive websites as part of personal learning journey.  
+    + Built projects using HTML, CSS, JavaScript, and React.  
+    + Implemented user-friendly interfaces with attention to design and usability.  
+    + Applied best practices in coding, version control (Git), and responsive design.  
+    + Continuously improving skills through online courses, documentation, and hands-on projects.  
     
 #### Code examples:
 ```
