@@ -1,3 +1,4 @@
+![cat](C:\Users\ArthurVika\Desktop\cat.jpg)
 # Viktoryia Tsialiatnikava  
 ### Junior Frontend Developer  
 viktoryia.tsialiatnikava@gmail.com | +375292969255 | Minsk, Belarus  
