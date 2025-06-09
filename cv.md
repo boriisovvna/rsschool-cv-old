@@ -2,6 +2,11 @@
 ### Junior Frontend Developer  
 viktoryia.tsialiatnikava@gmail.com | +375292969255 | Minsk, Belarus  
 
+Passionate Frontend Developer making a career transition into tech with a strong drive for continuous learning.   
+Self-taught and highly motivated, I’ve already built several websites and love bringing ideas to life through   
+clean code and thoughtful design. Proficient in HTML, CSS. I value creativity, collaboration, and user-centered   
+design, and I’m excited to contribute to innovative projects and grow as part of a forward-thinking development team.   
+
 #### Skills:
 
 Git - intermediate  
