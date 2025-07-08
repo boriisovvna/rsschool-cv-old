@@ -1,0 +1,193 @@
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+*, 
+*::before, 
+*::after {
+    box-sizing: inherit;
+}
+body {
+    margin: 0;
+}
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+p, 
+li, 
+a {
+    font:  20px "Libertinus Mono", monospace;
+}
+h1 {
+    font: bold 50px "Libertinus Mono", monospace;
+    color: black;
+}
+h2 {
+    font: bold 35px "Libertinus Mono", monospace;
+}
+h3 {
+    font: bold 25px "Libertinus Mono", monospace;
+    color: black;
+}
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    gap: 20px;
+    list-style-type: none;
+    background-color: #1D398C;
+    padding: 20px;
+}
+.nav-list a {
+    padding: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav-list a:hover {
+    color: #f5d741;
+    transition: 0.6s;
+}
+.header-content {
+    display: flex;
+    gap: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.my-photo {
+    width: 21%;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 50%;
+    border: 10px solid #f5d741;
+}
+.header-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+    padding-right: 110px;
+    background-color: #f5d741;
+}
+.main-content {
+    display: flex;
+    justify-content: space-around;
+}
+.left-column, 
+.right-column {
+    display: flex;
+    flex-direction: column;
+}
+.left-column {
+    gap: 30px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+.contacts {
+    display: flex;
+    flex-direction: column;
+}
+.contacts-info ul {
+    padding-left: 0;
+}
+.contacts-link {
+    text-decoration: none;
+}
+.contacts-link:hover {
+    color: #f5d741;
+    transition: 0.6s;
+}
+h2 {
+    padding-left: 10px;
+    background-color: #f5d741;
+}
+.contacts-info {
+    display: flex;
+    flex-direction: column;
+}
+.github-info, 
+.gmail-info, 
+.telegram-info, 
+.location-info {
+    display: flex;
+}
+.github-info a, 
+.gmail-info a, 
+.telegram-info a, 
+.location-info a {
+    color: black;
+}
+svg {
+    margin-right: 10px;
+    margin-top: 6px;
+}
+.skills-list {
+    padding-left: 0;
+    list-style-type: none;
+}
+.lines {
+    display: flex;
+    gap: 5px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+.line {
+    display: inline-block;
+    width: 40px;
+    height: 0px;
+    border: 3px solid #f5d741;
+}
+.empty-line {
+    display: inline-block;
+    width: 40px;
+    height: 0px;
+    border: 3px solid #1D398C;
+}
+.languages-list {
+    padding-left: 0;
+    list-style-type: none;
+}
+.right-column {
+    padding-left: 50px;
+}
+.first-project a,
+.second-project a,
+.third-project a {
+    color: black;
+}
+.project-name {
+    font-weight: 600;
+    text-decoration: underline;
+}
+.project-name:hover {
+    color: #f5d741;
+    transition: 0.6s;
+}
+.project-personal {
+    font-style: oblique;
+}
+.project-date {
+    font-weight: 600;
+}
+.footer-content-one, 
+.footer-content-two {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    background-color: #1D398C;
+}
+.footer-content-one p {
+    margin-top: 27px;
+    color: white;
+}
+.footer-content-two p {
+    margin-top: 0;
+    color: white;
+}
+.footer-github {
+    margin-top: 20px;
+}
+.footer-github path:hover {
+    fill: #f5d741;
+    transition: 0.6s;
+}
