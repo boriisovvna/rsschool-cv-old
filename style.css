@@ -125,13 +125,11 @@ svg {
     padding-left: 0;
     list-style-type: none;
 }
-.skills-list li {
-    margin-bottom: 20px;
-}
 .lines {
     display: flex;
     gap: 5px;
     margin-bottom: 20px;
+    margin-top: 20px;
 }
 .line {
     display: inline-block;
@@ -148,9 +146,6 @@ svg {
 .languages-list {
     padding-left: 0;
     list-style-type: none;
-}
-.languages-list li {
-    padding-bottom: 20px;
 }
 .right-column {
     padding-left: 50px;
